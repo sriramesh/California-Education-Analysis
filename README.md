@@ -1,2 +1,2 @@
-# CA-School-Discpiline-Disparities
- Examining CA school suspension rates
+# CA-Education-Data-Analysis
+Examining public data on education status in California
